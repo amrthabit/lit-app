@@ -1,0 +1,15 @@
+.error-message {
+    font-family: 'Roboto', sans-serif;
+    color: #e83f33;
+    text-align: left;
+    font-size: 12px;
+    margin-top: 1px;
+    margin-left: 29.5px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
